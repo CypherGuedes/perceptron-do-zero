@@ -1,0 +1,1 @@
+"""Implementação educacional do Perceptron."""
